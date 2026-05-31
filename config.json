@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databaseconnect",
+        "uuid": 17515419,
+        "checksum": "nzozkw"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
